@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Justine Chia 
+title: Rob Foster 
 ---
 
-Justine Chia is a Data Scientist at Austin Capital Data. She received her PhD from the University of California, Berkeley, where she studied neurons that are involved in taste processing and memory formation in fruit flies.
+Rob obtained a Bachelor in Computer Engineering from Worcester Polytechnic Institute and a Master of Information and Data Science from University of California, Berkeley.
 
 -----
+Rob has previously worked on projects such as Internet of Things Device classification, social media engagement metrics, customer engagement and segmentation, and fraud/bad actor detection. All of these projects include designing a robust machine learning pipeline and algorithm design using Scala, Python and Spark functionality. 
 
-As a data scientist, she is excited to leverage her expertise in the life sciences to inform heath-related research directions. She is also passionate about making science and data accessible to the general public.
-
-When not working on science, you can find her exploring trails in the backcountry, making mac n cheese, or building LED art projects.
+In addition, Rob has developed curriculum and course materials for Python instructional courses for UC Berkeley, UC Santa Cruz and online platforms like skillshare.com.
